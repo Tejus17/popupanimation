@@ -48,7 +48,22 @@ You can adjust the CSS properties to suit your design needs:
 - **Circle size and color:** Customize the circle’s size, color, and shape.
 - **Image size and appearance:** Change the appearance of the popup image (round, square, etc.).
 
-## Contributing
+## 🤝 Contributing
 
-Contributions are welcome! Feel free to submit issues, feature requests, or pull requests.
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request, or open an issue to discuss.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/YourFeature`)
+3. Commit your Changes (`git commit -m 'Add Your Feature'`)
+4. Push to the Branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
+
+## 📬 Contact
+
+Have questions or want to connect? Reach out via [email@example.com](mailto:email@example.com) or connect on [LinkedIn](https://linkedin.com/in/yourprofile).
+
+## ⭐ Acknowledgments
+
+Thanks to @vishalkumarojha everyone who helped make this project possible, especially contributors and anyone who provided feedback.
+
 
