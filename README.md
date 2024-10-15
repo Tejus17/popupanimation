@@ -58,12 +58,27 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 4. Push to the Branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 
-## 📬 Contact
+## Contributing
 
-Have questions or want to connect? Reach out via [email@example.com](mailto:email@example.com) or connect on [LinkedIn](https://linkedin.com/in/yourprofile).
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**!
 
-## ⭐ Acknowledgments
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Thanks to @vishalkumarojha everyone who helped make this project possible, especially contributors and anyone who provided feedback.
+For more detailed instructions, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Acknowledgments
+
+- [Awesome Readme Template](https://github.com/matiassingers/awesome-readme)
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Shields.io](https://shields.io/)
 
 
